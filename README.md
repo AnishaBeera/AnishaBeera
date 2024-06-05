@@ -1,5 +1,5 @@
 <div id="header" align='center' >
-  <img src="https://giphy.com/stickers/mrurbinaco-mr-urbina-office-paTz7UZbPfTZFRYnnB" width="100px"></img>
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2Rmd25xbGIycGFneXRiaWR5NW13OGJsanA4Z3hzcml0OW54YnR0OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/paTz7UZbPfTZFRYnnB/giphy.webp" width="100px"></img>
 
 # Anisha-Beera
 ### 🌟 About Me
