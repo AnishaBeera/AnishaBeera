@@ -21,7 +21,7 @@
  I'm B.Anisha, a second-year Computer Science and Engineering student passionate about coding and technology. I have a good foundation in web development and a growing interest in data science and analytics.
 
 🏫student at gayatri vidya parishad college for degree and pg courses
-📖:parsuring computer science
+📖:pursuring computer science
 
 ### 🚀 Skills & Interests
 
