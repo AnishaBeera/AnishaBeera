@@ -1,10 +1,24 @@
 <div id="header" align='center' >
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2Rmd25xbGIycGFneXRiaWR5NW13OGJsanA4Z3hzcml0OW54YnR0OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/paTz7UZbPfTZFRYnnB/giphy.webp" width="100px"></img>
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2Rmd25xbGIycGFneXRiaWR5NW13OGJsanA4Z3hzcml0OW54YnR0OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/paTz7UZbPfTZFRYnnB/giphy.webp" width="180px"></img>
+</div>
+<div id="badges" align='center'>
+  <a href="www.linkedin.com/in/anisha-beera-676b1b260"target=”_blank”>
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://www.hackerrank.com/profile/anishadeepthi201" target=”_blank”>
+    <img src="https://img.shields.io/badge/hackerrank-050c18?style=for-the-badge&logo=hackerrank" alt="hackerrank Badge"/>
+  </a>
+  <div><h2 align="center">👋 Hi there!</h2></div>
+</div>
+<div align="center" >
+    <img src="https://image.lexica.art/full_webp/5420b363-0179-4fea-aec9-9055783d6d65" width="50%"></img>
+</div>
+
 
 # Anisha-Beera
 ### 🌟 About Me
 
-👋 Hi there! I'm B.Anisha, a second-year Computer Science and Engineering student passionate about coding and technology. I have a good foundation in web development and a growing interest in data science and analytics.
+ I'm B.Anisha, a second-year Computer Science and Engineering student passionate about coding and technology. I have a good foundation in web development and a growing interest in data science and analytics.
 
 🏫student at gayatri vidya parishad college for degree and pg courses
 📖:parsuring computer science
